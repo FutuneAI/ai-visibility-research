@@ -35,7 +35,7 @@ The stack is hierarchical in constraint propagation, but distributed in signal o
 
 **Target surfaces:** Google, Bing, crawler-based discovery systems
 
-**Core question:** Does this content already exist on the internet, and is it in a format that is easily accessible and processable by systems?
+**Core question:** Does this content already exist on the internet, and is it in a format that is easily accessible and processable by crawler systems?
 
 Both traditional search engines and generative AI systems ultimately depend on the indexed web. Without indexability, there is no raw material for extraction, interpretation, or generation.
 
