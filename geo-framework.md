@@ -113,10 +113,9 @@ Ranking was the endpoint of the previous era. Recommendation is the variable tha
 ## Related Research
 
 - [01] Why Chinese brands disappear in AI-generated answers: [entity-absence.md](./entity-absence.md)
-- [03] Four technical pathways in the Chinese GEO market: coming soon
+- [03] A unified framework for GEO, AEO, and AI visibility: coming soon
+- [04] Four technical pathways in the Chinese GEO market: coming soon
 
 ---
 
 *FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We specialize in building entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
-
-**futuneai.com**
