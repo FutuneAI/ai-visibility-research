@@ -97,4 +97,4 @@ Only once this baseline is established does it become possible to identify what 
 
 *FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We specialize in building entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
 
-**futuneai.com**
+**Website**: https://www.futuneai.com
