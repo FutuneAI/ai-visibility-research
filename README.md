@@ -15,7 +15,10 @@ FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible
 | 01 | Why Chinese brands disappear in AI-generated answers | [entity-absence.md](./entity-absence.md) | 2026-03 |
 | 02 | SEO, AEO, LLMO, and GEO: a unified AI visibility framework | [geo-framework.md](./geo-framework.md) | 2026-03 |
 | 03 | Four approaches to GEO: what the variation in the market reveals | [geo-pathways.md](./geo-pathways.md) | 2026-03 |
-| 04 | Four technical pathways in the Chinese GEO market | coming soon | — |
+| 04 | How to diagnose your brand's AI visibility in 20 minutes | [ai-visibility-diagnostic.md](./ai-visibility-diagnostic.md) | 2026-03 |
+| 05 | How to build an English-language entity layer from scratch | coming soon | — |
+| 06 | Cross-language consistency: why your Chinese brand is a different entity in English AI | coming soon | — |
+| 07 | Measuring AI visibility over time | coming soon | — |
 
 ---
 
