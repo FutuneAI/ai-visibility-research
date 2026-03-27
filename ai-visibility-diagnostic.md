@@ -26,13 +26,13 @@ Define two things before running any prompts.
 
 ### Category Recommendation Prompts
 
-Run each of these in all platforms you are testing. Replace the bracketed fields with your actual category and market context.
+Run each of these on all platforms you are testing. Replace the bracketed fields with your actual category and market context.
 
 | # | Prompt Template |
 |---|----------------|
 | 1 | Which [your category] companies are worth considering? |
 | 2 | What are the best [your category] options for [your target market or use case]? |
-| 3 | I'm looking for a [your category] solution, what would you recommend? |
+| 3 | I'm looking for a [your category] solution. What would you recommend? |
 | 4 | Which [your category] providers are known for [your core capability]? |
 
 ### Direct Brand Prompts
@@ -71,11 +71,11 @@ For each of the 21 prompt-platform combinations, note:
 
 ### Pattern A: Complete Absence
 
-**Signs:** The platform says it has no information about your brand, or describes a different company with a similar name. Category prompts return no mention of your brand.
+**Signs:** The platform says it has no information about your brand or describes a different company with a similar name. Category prompts return no mention of your brand.
 
 **What it means:** The AI has no coherent entity to work with. Your brand does not exist as a stable concept in the sources these models draw from.
 
-**Starting point:** Build an English-language entity layer from scratch. Focus on independent, structured descriptions of your brand on platforms AI models weight heavily: Q&A platforms, structured analyses, technical documentation repositories.
+**Starting point:** Build an English-language entity layer from scratch. Focus on independent, structured descriptions of your brand on platforms AI models weigh heavily: Q&A platforms, structured analyses, and technical documentation repositories.
 
 ---
 
