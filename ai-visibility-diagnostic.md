@@ -117,10 +117,10 @@ For each of the 21 prompt-platform combinations, note:
 This diagnostic surfaces your current state. It does not tell you:
 
 - Which specific sources are producing the descriptions you're seeing
-- Why you ended up in this state
-- How quickly your state will change after interventions
+- Why did you end up in this state
+- How quickly will your state change after interventions
 
-Run the test consistently every four to six weeks with the same prompts. A single data point tells you where you are. A series tells you whether what you're doing is working.
+Run the test consistently every four to six weeks using the same prompts. A single data point tells you where you are. A series tells you whether what you're doing is working.
 
 ---
 
@@ -135,6 +135,6 @@ Run the test consistently every four to six weeks with the same prompts. A singl
 
 ---
 
-*FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We specialize in building entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
+*FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We built entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
 
-**futuneai.com**
+**Website**: https://www.futuneai.com
