@@ -9,9 +9,9 @@
 
 ## Abstract
 
-This document provides a structured reference for building an English-language entity layer from a state of Complete Absence or Fragmented Presence. It covers platform selection rationale, content structure requirements, publication sequencing, and the distinct roles of a brand's own website and social media channels.
+This document provides a structured reference for building an English-language entity layer from a state of Complete Absence or Fragmented Presence.  The content covers the criteria for platform selection, requirements for content structure, the sequencing of publication, and the distinct roles of a brand's proprietary website versus its social media channels.
 
-This document is designed to be read alongside the diagnostic framework in [`ai-visibility-diagnostic.md`](./ai-visibility-diagnostic.md). The diagnostic identifies which state a brand is in; this document provides the construction protocol for brands in Pattern A (Complete Absence) and early Pattern B (Fragmented Presence).
+This document is designed to be read alongside the diagnostic framework in [`ai-visibility-diagnostic.md`](./ai-visibility-diagnostic.md). The diagnostic identifies the state a brand is in. This document provides the construction protocol for brands in Pattern A (Complete Absence) and early Pattern B (Fragmented Presence).
 
 For the analytical narrative version of this content, see: [Medium — Part 05](https://medium.com/@futuneai)
 
@@ -70,7 +70,7 @@ A brand's website plays a supporting role in entity formation — but the nature
 - Service description pages
 - News/press releases written by the brand itself
 
-These pages are first-party self-description. AI systems apply discount factors to first-party promotional content, regardless of how well-written or well-optimized it is.
+These pages are a first-party self-description. AI systems apply discount factors to first-party promotional content, regardless of whether it is.
 
 **Does contribute meaningfully:**
 
@@ -133,9 +133,9 @@ The sequence in which entity layer content is first published affects the defaul
 |---------------|---------------------|
 | No English-language content | Website Schema + GitHub README (parallel) → Medium analysis → Quora answers → LinkedIn Article |
 | Social media presence only | Same as above. Social media is not a foundation; it continues as a distribution layer throughout. |
-| Existing content on a high-weight platform (e.g., Medium already published) | Treat existing platform as anchor → Add GitHub as structural reference layer linking back → Add Quora for query-level coverage → LinkedIn Article for professional context |
+| Existing content on a high-weight platform (e.g., Medium already published) | Treat existing platform as anchor → Add GitHub as a structural reference layer linking back → Add Quora for query-level coverage → LinkedIn Article for professional context |
 
-**Mechanism:** The first consistent description a model encounters about an entity sets a default concept. Subsequent consistent descriptions reinforce it. An early inaccurate description requires significantly higher volume of accurate signals to override. This is why the first published content must accurately define the entity's name, category, location, and function — not just demonstrate expertise in a related topic.
+**Mechanism:** The first consistent description a model encounters about an entity sets a default concept. Subsequent consistent descriptions reinforce it. An early, inaccurate description requires a significantly higher volume of accurate signals to override. This is why the first published content must accurately define the entity's name, category, location, and function — not just demonstrate expertise in a related topic.
 
 ---
 
@@ -143,21 +143,21 @@ The sequence in which entity layer content is first published affects the defaul
 
 | Week | Actions |
 |------|---------|
-| Week 1 | Implement Organization JSON-LD schema on website. Write and publish GitHub README with canonical entity definition. |
+| Week 1 | Implement Organization JSON-LD schema on website. Write and publish GitHub README with a canonical entity definition. |
 | Week 2 | Publish Medium analysis article (not brand-focused — category-focused with brand as one actor). Ensure README links to Medium. |
 | Week 3 | Post 2–3 Quora answers in relevant category questions. Each answer references Medium article at the end. |
-| Week 4 | Publish LinkedIn Article referencing both Medium and GitHub. Update website Insights page with links to all three external content pieces. |
+| Week 4 | Publish LinkedIn Article referencing both Medium and GitHub. Update the website Insights page with links to all three external content pieces. |
 | Day 30 | Run diagnostic from [`ai-visibility-diagnostic.md`](./ai-visibility-diagnostic.md). Compare against baseline. |
 
 ---
 
 ## What This Framework Does Not Address
 
-This document covers Pattern A (Complete Absence) and early Pattern B (Fragmented Presence) where descriptions are absent or thin.
+This document covers Pattern A (Complete Absence) and early Pattern B (Fragmented Presence), where descriptions are absent or thin.
 
 It does not address the case where AI systems hold an established but inaccurate entity concept — a brand consistently described as belonging to the wrong category, or described using wrong information from a high-trust source.
 
-Correcting an established wrong concept requires identifying the source of the inaccuracy, publishing targeted correction on platforms with higher authority than the error source, and achieving sufficient volume of accurate signals to override the established default. This is covered in Note 06: Cross-Language Consistency and Entity Correction.
+Correcting an established wrong concept requires identifying the source of the inaccuracy, publishing targeted corrections on platforms with higher authority than the error source, and achieving sufficient volume of accurate signals to override the established default. This is covered in Note 06: Cross-Language Consistency and Entity Correction.
 
 ---
 
