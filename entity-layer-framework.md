@@ -1,9 +1,6 @@
 # Entity Layer Construction: A Structured Reference
-
-**Document:** `entity-layer-framework.md`  
-**Series:** AI Visibility for Chinese Brands — Note 05  
-**Status:** Published  
-**Last updated:** 2026-03
+**FutuneAI (复知) AI Visibility Notes — Note 05**
+*Part of the AI Visibility series for Chinese brands expanding globally*
 
 ---
 
