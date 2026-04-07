@@ -1,6 +1,6 @@
 # Why Your Chinese Brand Is a Different Entity in English-Language AI
 
-**FutuneAI AI Visibility Notes — Topic 6**
+**FutuneAI (复知) AI Visibility Notes — Topic 6**
 *Part of the AI Visibility series for Chinese brands expanding globally*
 
 ---
