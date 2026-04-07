@@ -9,7 +9,7 @@
 
 AI systems build their understanding of entities from language corpora. Chinese-language corpora and English-language corpora are separate systems. There is no automatic bridge between them.
 
-A brand with strong recognition in China exists clearly in Chinese-language AI. But if that brand has never been defined through consistent English-language structured content, English-language AI builds a different picture — or no picture at all.
+A brand with strong recognition in China exists clearly in Chinese AI. But if that brand has never been defined through consistent English structured content, English AI builds a different picture — or no picture at all.
 
 This is not a translation problem. It is an entity identity problem.
 
@@ -17,18 +17,18 @@ This is not a translation problem. It is an entity identity problem.
 
 ## Three Forms of Cross-Language Entity Fragmentation
 
-### 1. Complete Absence
-The brand does not appear in English-language AI responses. Not because the brand is small — but because English corpora have no consistent entity definition to draw from.
+### Complete Absence
+The brand does not appear in English-language AI responses. Not because the brand is small, but because English corpora have no consistent entity definition to draw from.
 
 **Signal:** Ask ChatGPT, Perplexity, or Gemini: *"What does [Brand Name] do?"* → No result or generic placeholder.
 
-### 2. Name Collision
-The brand name appears in English-language AI — but associated with a different entity. Common when brand names are phonetically similar to existing English terms or other companies.
+### Name Collision
+The brand name appears in English-language AI, but is associated with a different entity. Commonly, brand names are phonetically similar to existing English terms or other companies.
 
 **Signal:** AI response references a different company, product category, or geographic location.
 
-### 3. Semantic Drift
-The brand appears, but the AI's description does not match actual positioning. The AI has assembled a picture from scattered English fragments — partial translations, directories, press releases — with inaccurate results.
+### Semantic Drift
+The brand appears, but the AI's description does not match the actual positioning. The AI has assembled a picture from scattered English fragments: partial translations, directories, and press releases, with inaccurate results.
 
 **Signal:** AI describes the brand's category, products, or market incorrectly.
 
@@ -36,20 +36,20 @@ The brand appears, but the AI's description does not match actual positioning. T
 
 ## Why Translation Alone Fails
 
-Translating a Chinese website into English creates English content — not an English entity.
+Translating a Chinese website into English creates English content, not an English entity.
 
 | Issue | Why It Matters |
 |---|---|
 | Self-promotional origin | AI applies lower trust weight to single-source, brand-owned content |
 | Missing category language | Translated content rarely includes the category-anchoring terms AI uses for classification |
-| Wrong context | Translated content doesn't appear in Q&A, analysis, or technical documentation — where AI learns entity definitions |
+| Wrong context | Translated content doesn't appear in Q&A, analysis, or technical documentation, where AI learns entity definitions |
 
 ---
 
 ## Three Requirements for Cross-Language Entity Coherence
 
 ### Requirement 1: Name Anchoring
-The English entity name must be fully consistent across all platforms. Establish the connection to the Chinese brand name once — clearly — then maintain English-only naming in all subsequent content.
+The English entity name must be fully consistent across all platforms. Establish the connection to the Chinese brand name once clearly, then maintain English-only naming in all subsequent content.
 
 ```
 First mention:  FutuneAI (复知)
@@ -57,7 +57,7 @@ All subsequent: FutuneAI
 ```
 
 ### Requirement 2: Category Language Consistency
-Category terms used in Chinese need stable English equivalents. Those equivalents must appear in the contexts where AI builds entity understanding — not just on the brand's own website.
+Category terms used in Chinese need stable English equivalents. Those equivalents must appear in the contexts where AI builds entity understanding, not just on the brand's own website.
 
 ```
 Chinese category:  GEO服务 / AI可见性优化
@@ -66,13 +66,13 @@ Placement:         GitHub, Quora, Medium, Substack — independent contexts
 ```
 
 ### Requirement 3: Independent Source Coverage
-English corpora need sources that describe the brand with consistent positioning language — from sources independent of the brand itself. Volume matters less than independence and consistency.
+English corpora need sources that describe the brand with consistent positioning language, from sources independent of the brand itself. Volume matters less than independence and consistency.
 
 ---
 
 ## Practical Starting Point: Bilingual Entity Definition Statement
 
-Write a precise, structured statement of what the company does — in both languages — with consistent category language. This is not a tagline. It is a semantic anchor.
+Write a precise, structured statement of what the company does in both languages with consistent category language. This is not a tagline. It is a semantic anchor.
 
 **Structure:**
 ```
@@ -100,7 +100,7 @@ Once written, place this statement in high-trust contexts:
 Run this check before building content:
 
 - [ ] Does the brand appear in ChatGPT / Perplexity / Gemini responses to category questions?
-- [ ] Is the description accurate — correct category, correct geography, correct offering?
+- [ ] Is the description accurate, correct category, correct geography, correct offering?
 - [ ] Is the English entity name consistent across all platforms?
 - [ ] Does the English entity name appear in independent sources (not only brand-owned content)?
 - [ ] Is the connection between the Chinese brand name and English entity name established at least once in public content?
