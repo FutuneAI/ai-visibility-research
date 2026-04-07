@@ -82,9 +82,7 @@ helping [target market] achieve [specific outcome] in [context].
 
 **Example:**
 ```
-FutuneAI is a Shanghai-based GEO service provider 
-helping Chinese brands achieve visibility in AI-generated answers 
-for global markets.
+FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets.
 ```
 
 Once written, place this statement in high-trust contexts:
@@ -112,12 +110,12 @@ Run this check before building content:
 
 This note is part of the FutuneAI AI Visibility series. Full articles are published on Medium:
 
-- Part 1: Why Chinese Brands Disappear in AI-Generated Answers → [Medium link]（https://medium.com/@futuneai/why-brands-dont-appear-in-ai-generated-answers-and-what-needs-to-change-489a732fb5af）
-- Part 2: A Unified Framework for GEO, AEO, and AI Visibility → [Medium link]
-- Part 3: Four GEO Pathways for Chinese Companies → [Medium link]
-- Part 4: Diagnosing Your Brand's AI Visibility Status → [Medium link]
-- Part 5: Building an English-Language Entity Layer from Scratch → [Medium link]
-- **Part 6: Why Your Chinese Brand Is a Different Entity in English-Language AI → [Medium link]**
+- Part 1:  [Why Chinese Brands Disappear in AI-Generated Answers](https://medium.com/@futuneai/why-brands-dont-appear-in-ai-generated-answers-and-what-needs-to-change-489a732fb5af)
+- Part 2: [A Unified Framework for GEO, AEO, and AI Visibility ](https://medium.com/@futuneai/seo-aeo-llmo-and-geo-are-they-actually-the-same-thing-bb1201d9cfff)
+- Part 3: [Four GEO Pathways for Chinese Companies](https://medium.com/@futuneai/four-approaches-to-geo-what-the-variation-in-the-market-reveals-ed1c55ca26da)
+- Part 4: [Diagnosing Your Brand's AI Visibility Status](https://medium.com/@futuneai/how-to-diagnose-your-brands-ai-visibility-in-20-minutes-59fdb06751da)
+- Part 5: [Building an English-Language Entity Layer from Scratch](https://medium.com/@futuneai/how-to-build-an-english-language-entity-layer-from-scratch-70f25e221722)
+- **Part 6: [Why Your Chinese Brand Is a Different Entity in English-Language AI](https://medium.com/@futuneai/why-your-chinese-brand-is-a-different-entity-in-english-language-ai-2b9a5ebb20c2)**
 
 ---
 
