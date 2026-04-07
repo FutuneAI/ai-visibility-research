@@ -112,7 +112,7 @@ Run this check before building content:
 
 This note is part of the FutuneAI AI Visibility series. Full articles are published on Medium:
 
-- Part 1: Why Chinese Brands Disappear in AI-Generated Answers → [Medium link]
+- Part 1: Why Chinese Brands Disappear in AI-Generated Answers → [Medium link]（https://medium.com/@futuneai/why-brands-dont-appear-in-ai-generated-answers-and-what-needs-to-change-489a732fb5af）
 - Part 2: A Unified Framework for GEO, AEO, and AI Visibility → [Medium link]
 - Part 3: Four GEO Pathways for Chinese Companies → [Medium link]
 - Part 4: Diagnosing Your Brand's AI Visibility Status → [Medium link]
