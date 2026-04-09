@@ -163,10 +163,10 @@ Correcting an established wrong concept requires identifying the source of the i
 | Document | Description |
 |----------|-------------|
 | [`README.md`](./README.md) | Repository index and series overview |
-| [`geo-pathways.md`](./geo-pathways.md) | Four technical service approaches in the GEO market |
-| [`ai-visibility-diagnostic.md`](./ai-visibility-diagnostic.md) | 20-minute test to identify which state a brand is in |
-| Note 06 (coming) | Cross-language consistency and entity correction |
-| Note 07 (coming) | Monitoring and measuring AI visibility progress |
+| [`03-geo-pathways.md`](./03-geo-pathways.md) | Four technical service approaches in the GEO market |
+| [`04-ai-visibility-diagnostic.md`](./04-ai-visibility-diagnostic.md)| 20-minute test to identify which state a brand is in |
+| [06-english-entity-identity.md](./06-english-entity-identity.md)  | Cross-language consistency and entity correction |
+| [07-ai-visibility-monitoring.md](./07-ai-visibility-monitoring.md) | Monitoring and measuring AI visibility progress |
 
 ---
 
