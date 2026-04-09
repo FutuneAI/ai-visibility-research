@@ -126,15 +126,16 @@ Run the test consistently every four to six weeks using the same prompts. A sing
 
 ## Related Research
 
-- [01] Why Chinese brands disappear in AI-generated answers: [entity-absence.md](./entity-absence.md)
-- [02] SEO, AEO, LLMO, and GEO: a unified AI visibility framework: [geo-framework.md](./geo-framework.md)
-- [03] Four approaches to GEO: what the variation in the market reveals: [geo-pathways.md](./geo-pathways.md)
-- [05] How to build an English-language entity layer from scratch: coming soon
-- [06] Cross-language consistency: why your Chinese brand is a different entity in English AI: coming soon
-- [07] Measuring AI visibility over time: coming soon
+- [01] Why Chinese brands disappear in AI-generated answers: [01-entity-absence.md](./01-entity-absence.md)
+- [02] SEO, AEO, LLMO, and GEO: a unified AI visibility framework: [02-geo-framework.md](./02-geo-framework.md) 
+- [03] Four approaches to GEO: what the variation in the market reveals: [03-geo-pathways.md](./03-geo-pathways.md) 
+- [05] How to build an English-language entity layer from scratch: [05-entity-layer-framework.md](./05-entity-layer-framework.md)
+- [06] Cross-language consistency: why your Chinese brand is a different entity in English AI: [06-english-entity-identity.md](./06-english-entity-identity.md)
+- [07] Measuring AI visibility over time: [07-ai-visibility-monitoring.md](./07-ai-visibility-monitoring.md)
 
 ---
 
 *FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We built entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
 
+**Medium**: https://medium.com/@futuneai
 **Website**: https://www.futuneai.com
