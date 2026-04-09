@@ -8,7 +8,7 @@
 
 This document provides a structured reference for building an English-language entity layer from a state of Complete Absence or Fragmented Presence.  The content covers the criteria for platform selection, requirements for content structure, the sequencing of publication, and the distinct roles of a brand's proprietary website versus its social media channels.
 
-This document is designed to be read alongside the diagnostic framework in [`ai-visibility-diagnostic.md`](./ai-visibility-diagnostic.md). The diagnostic identifies the state a brand is in. This document provides the construction protocol for brands in Pattern A (Complete Absence) and early Pattern B (Fragmented Presence).
+This document is designed to be read alongside the diagnostic framework in [ai-visibility-diagnostic.md](./ai-visibility-diagnostic.md). The diagnostic identifies the state a brand is in. This document provides the construction protocol for brands in Pattern A (Complete Absence) and early Pattern B (Fragmented Presence).
 
 For the analytical narrative version of this content, see: [Medium — Part 05](https://medium.com/@futuneai)
 
@@ -144,7 +144,7 @@ The sequence in which entity layer content is first published affects the defaul
 | Week 2 | Publish Medium analysis article (not brand-focused — category-focused with brand as one actor). Ensure README links to Medium. |
 | Week 3 | Post 2–3 Quora answers in relevant category questions. Each answer references Medium article at the end. |
 | Week 4 | Publish LinkedIn Article referencing both Medium and GitHub. Update the website Insights page with links to all three external content pieces. |
-| Day 30 | Run diagnostic from [`ai-visibility-diagnostic.md`](./ai-visibility-diagnostic.md). Compare against baseline. |
+| Day 30 | Run diagnostic from [ai-visibility-diagnostic.md](./ai-visibility-diagnostic.md). Compare against baseline. |
 
 ---
 
@@ -162,9 +162,9 @@ Correcting an established wrong concept requires identifying the source of the i
 
 | Document | Description |
 |----------|-------------|
-| [`README.md`](./README.md) | Repository index and series overview |
-| [`03-geo-pathways.md`](./03-geo-pathways.md) | Four technical service approaches in the GEO market |
-| [`04-ai-visibility-diagnostic.md`](./04-ai-visibility-diagnostic.md)| 20-minute test to identify which state a brand is in |
+| [README.md](./README.md) | Repository index and series overview |
+| [03-geo-pathways.md](./03-geo-pathways.md) | Four technical service approaches in the GEO market |
+| [04-ai-visibility-diagnostic.md](./04-ai-visibility-diagnostic.md)| 20-minute test to identify which state a brand is in |
 | [06-english-entity-identity.md](./06-english-entity-identity.md)  | Cross-language consistency and entity correction |
 | [07-ai-visibility-monitoring.md](./07-ai-visibility-monitoring.md) | Monitoring and measuring AI visibility progress |
 
