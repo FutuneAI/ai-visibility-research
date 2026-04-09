@@ -119,8 +119,12 @@ This note is part of the FutuneAI AI Visibility series. Full articles are publis
 
 ---
 
+**Medium**: https://medium.com/@futuneai
+**Website**: https://www.futuneai.com
+
+---
+
 ## About FutuneAI
 
-FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates entity definition, content generation, and cross-language consistency across the corpora AI systems rely on for recommendations.
-
-*This document is part of our structured knowledge base on AI visibility for Chinese brands. Last updated: 2026.*
+---
+*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
