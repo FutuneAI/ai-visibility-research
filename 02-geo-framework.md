@@ -112,10 +112,17 @@ Ranking was the endpoint of the previous era. Recommendation is the variable tha
 
 ## Related Research
 
-- [01] Why Chinese brands disappear in AI-generated answers: [entity-absence.md](./entity-absence.md)
-- [03] A unified framework for GEO, AEO, and AI visibility: coming soon
-- [04] Four technical pathways in the Chinese GEO market: coming soon
+- [01] Why Chinese brands disappear in AI-generated answers: [01-entity-absence.md](./01-entity-absence.md)
+- [03] A unified framework for GEO, AEO, and AI visibility: [03-geo-pathways.md](./03-geo-pathways.md)
+- [04] Four technical pathways in the Chinese GEO market: [04-ai-visibility-diagnostic.md](./04-ai-visibility-diagnostic.md) 
 
 ---
 
-*FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We specialize in building entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
+**Medium**: https://medium.com/@futuneai
+**Website**: https://www.futuneai.com
+
+---
+
+## About FutuneAI
+
+*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
