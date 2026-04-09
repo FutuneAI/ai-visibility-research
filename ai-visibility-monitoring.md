@@ -15,7 +15,7 @@ Your brand name or positioning description appears in a ChatGPT, Perplexity, or 
 AI answer engines that display source references show your Medium or GitHub content as a cited link. Perplexity makes these citations more visible than other platforms. This is the most useful intermediate signal. It means your content is being read before your brand is being named.
 
 ### Signal 3: Category association
-When someone asks "which GEO providers work with Chinese brands expanding globally," your company appears in the answer. This is the signal that matters most commercially. It is also the slowest to build.
+When someone asks, "Which GEO providers work with Chinese brands expanding globally," your company appears in the answer. This is the signal that matters most commercially. It is also the slowest to build.
 
 ---
 
@@ -39,28 +39,28 @@ Run every two weeks. Log results each time to track changes.
 
 ### Pattern 1: Not appearing
 
-**What it means:** Entity layer is not thick enough. AI systems need multiple independent sources referencing the same entity before they incorporate it.
+**What it means:** The entity layer is not thick enough. AI systems need multiple independent sources referencing the same entity before they incorporate it.
 
-**Fix:** Add more independent sources. Quora answers, LinkedIn articles, forum discussions that reference your Medium and GitHub content. One or two platforms are not enough.
+**Fix:** Add more independent sources. Quora answers, LinkedIn articles, and forum discussions that reference your Medium and GitHub content. One or two platforms are not enough.
 
-### Pattern 2: Appearing with wrong description
+### Pattern 2: Appearing with a wrong description
 
 **What it means:** Core positioning language is inconsistent across platforms. AI is averaging across contradictory signals.
 
 **Fix:** Return to your GitHub entity definition. Make sure every platform uses the same key phrases in the same order. Consistency is the fix.
 
-### Pattern 3: Appearing in wrong category
+### Pattern 3: Appearing in the wrong category
 
 **What it means:** Category anchor language is not strong enough or is inconsistent. AI is placing you in a related but incorrect service category.
 
-**Fix:** Audit category terms across all published content. Every piece should use the same category label in the same way. Variation causes miscategorization.
+**Fix:** Audit category terms across all published content. Every piece should use the same category label consistently. Variation causes miscategorization.
 
 ---
 
 ## Update order when fixing deviations
 
-1. GitHub (highest trust signal, fix first)
-2. Medium (second highest, fix second)
+1. GitHub → highest trust signal, fix first
+2. Medium → second highest, fix second
 3. Substack and LinkedIn Article
 4. Other platforms follow
 
