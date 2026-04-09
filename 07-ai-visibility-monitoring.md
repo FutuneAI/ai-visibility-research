@@ -96,4 +96,7 @@ Do not update all platforms simultaneously. Fix the highest-trust sources first 
 **Website**: https://www.futuneai.com
 
 ---
+
+## About FutuneAI
+
 *FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
