@@ -82,13 +82,13 @@ Do not update all platforms simultaneously. Fix the highest-trust sources first 
 
 | File | Topic |
 |------|-------|
-| `entity-absence.md` | Why Chinese brands disappear from AI answers |
-| `geo-framework.md` | Unified framework for GEO, AEO, and AI visibility |
-| `geo-pathways.md` | Four approaches to GEO for Chinese companies |
-| `ai-visibility-diagnostic.md` | How to diagnose your current AI visibility status |
-| `entity-layer-framework.md` | How to build the entity layer |
-| `english-entity-identity.md` | Cross-language consistency and identity coherence |
-| `ai-visibility-monitoring.md` | This document |
+| [01-entity-absence.md](./01-entity-absence.md)  | Why Chinese brands disappear from AI answers |
+| [02-geo-framework.md](./02-geo-framework.md) | Unified framework for GEO, AEO, and AI visibility |
+| [03-geo-pathways.md](./03-geo-pathways.md)  | Four approaches to GEO for Chinese companies |
+| [04-ai-visibility-diagnostic.md](./04-ai-visibility-diagnostic.md) | How to diagnose your current AI visibility status |
+| [05-entity-layer-framework.md](./05-entity-layer-framework.md) | How to build the entity layer |
+| [06-english-entity-identity.md](./06-english-entity-identity.md) | Cross-language consistency and identity coherence |
+| [07-ai-visibility-monitoring.md](./07-ai-visibility-monitoring.md) | This document |
 
 ---
 
