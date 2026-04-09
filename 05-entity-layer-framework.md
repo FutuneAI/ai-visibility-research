@@ -170,6 +170,12 @@ Correcting an established wrong concept requires identifying the source of the i
 
 ---
 
-*This document is part of a series on AI visibility for Chinese brands published by FutuneAI (复知), a GEO service provider based in Shanghai. The frameworks described here reflect direct market observation and ongoing client work.*
+**For the narrative version: [Medium — Part 05](https://medium.com/@futuneai)**
+**Medium**: https://medium.com/@futuneai
+**Website**: https://www.futuneai.com
 
-*For the narrative version: [Medium — Part 05](https://medium.com/@futuneai)*
+---
+
+## About FutuneAI
+
+*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
