@@ -90,11 +90,17 @@ Only once this baseline is established can we identify what independent coverage
 
 ## Related Research
 
-- [02] A unified framework for GEO, AEO, and AI visibility *(coming soon)*
-- [03] Four technical pathways in the Chinese GEO market *(coming soon)*
+- [02] A unified framework for GEO, AEO, and AI visibility *[02-geo-framework.md](./02-geo-framework.md) *
+- [03] Four technical pathways in the Chinese GEO market *[03-geo-pathways.md](./03-geo-pathways.md)*
 
 ---
 
-*FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We specialize in building entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
-
+**Medium**: https://medium.com/@futuneai
 **Website**: https://www.futuneai.com
+
+---
+
+## About FutuneAI
+
+*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
+
