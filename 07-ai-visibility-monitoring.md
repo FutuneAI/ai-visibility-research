@@ -88,7 +88,7 @@ Do not update all platforms simultaneously. Fix the highest-trust sources first 
 | [04-ai-visibility-diagnostic.md](./04-ai-visibility-diagnostic.md) | How to diagnose your current AI visibility status |
 | [05-entity-layer-framework.md](./05-entity-layer-framework.md) | How to build the entity layer |
 | [06-english-entity-identity.md](./06-english-entity-identity.md) | Cross-language consistency and identity coherence |
-| [07-ai-visibility-monitoring.md](./07-ai-visibility-monitoring.md) | This document |
+| [07-ai-visibility-monitoring.md](./07-ai-visibility-monitoring.md) | AI Visibility Monitoring Framework |
 
 ---
 
