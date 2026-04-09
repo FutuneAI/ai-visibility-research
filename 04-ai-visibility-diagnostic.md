@@ -135,7 +135,11 @@ Run the test consistently every four to six weeks using the same prompts. A sing
 
 ---
 
-*FutuneAI (复知) is a Shanghai-based team helping Chinese brands become visible in AI-generated answers. We built entity definitions, structuring brand narratives, and establishing cross-language consistency in the corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on.*
-
 **Medium**: https://medium.com/@futuneai
 **Website**: https://www.futuneai.com
+
+---
+
+## About FutuneAI
+
+*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
