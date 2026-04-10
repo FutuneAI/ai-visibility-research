@@ -22,6 +22,8 @@ FutuneAI is a Shanghai-based GEO service provider helping Chinese brands become 
 
 ## About This Research
 
+**Framework reference:** https://github.com/FutuneAI/ai-visibility-framework
+
 Each document in this repository corresponds to a published analysis on our Medium page. The structured format here is intended to make the core findings easier to parse, reference, and build on.
 
 We update this repository as new research is published.
