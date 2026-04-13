@@ -29,7 +29,7 @@ The fragmentation occurred because each new surface area was treated as a replac
 
 ## The Four-Layer Stack
 
-The stack is hierarchical in constraint propagation, but distributed in signal origin. Each layer depends on the one beneath it. A constraint at any layer limits performance at every layer above it.
+The system exhibits hierarchical constraint propagation, but remains distributed in signal origin. While there are dependencies between layers, they do not operate as a strictly linear stack. Constraints at one layer can influence others, but not always in a fully hierarchical manner.
 
 ### Layer 1: The Index Layer, SEO
 
@@ -37,7 +37,7 @@ The stack is hierarchical in constraint propagation, but distributed in signal o
 
 **Core question:** Does this content already exist on the internet, and is it in a format that is easily accessible and processable by crawler systems?
 
-Both traditional search engines and generative AI systems ultimately depend on the indexed web. Without indexability, there is no raw material for extraction, interpretation, or generation.
+Both traditional search engines and generative AI systems ultimately depend on the indexed web. Without indexability, the available material for extraction, interpretation, or generation becomes limited and unstable.
 
 ### Layer 2: The Answer Layer, AEO
 
@@ -45,7 +45,7 @@ Both traditional search engines and generative AI systems ultimately depend on t
 
 **Core question:** Can this content be directly invoked as a precise, self-contained answer?
 
-AEO focuses on extractability. The goal is not to rank but to become the standardized response for a defined question. Brands that operate effectively at this layer become the raw material from which AI-generated answers are assembled.
+AEO focuses on extractability. The goal is not to rank but to become the default response for a defined question. Brands that operate effectively at this layer become the raw material from which AI-generated answers are assembled.
 
 ### Layer 3: The Model Understanding Layer, LLMO
 
@@ -53,7 +53,7 @@ AEO focuses on extractability. The goal is not to rank but to become the standar
 
 **Core question:** Can large language models accurately parse, reliably summarize, and confidently cite this brand?
 
-LLMO is semantic governance. When LLMs compress and integrate content from across the web, inconsistencies across sources produce interpretive uncertainty. That uncertainty manifests in generated outputs as vague descriptions, a neutral tone, and avoidance of recommendation language. LLMO reduces interpretive deviation. It does not increase exposure.
+LLMO is semantic governance. When LLMs compress and integrate content from across the web, inconsistencies across sources produce interpretive uncertainty. This uncertainty often appears as vague descriptions, neutral positioning, and a reluctance to recommend. LLMO reduces interpretive deviation. It does not increase exposure.
 
 Key factors LLMO examines:
 - Is the brand's core concept precisely defined?
@@ -67,7 +67,7 @@ Key factors LLMO examines:
 
 **Core question:** Does the brand appear in AI-generated recommendations, and with what positioning?
 
-GEO orchestrates the three layers above it. Models do not cite a single source. They synthesize aggregate signals: industry media, third-party reviews, distributor discussions, comparison platforms, technical forums, and official materials. GEO influences which signals accumulate and how they are weighted.
+GEO orchestrates the outputs of the other three layers. Models do not cite a single source. They synthesize aggregate signals: industry media, third-party reviews, distributor discussions, comparison platforms, technical forums, and official materials. GEO(Generative engine optimization) influences which signals accumulate and how they are weighted.
 
 ---
 
@@ -106,7 +106,7 @@ SEO, AEO, and LLMO are capability-building layers. GEO is the strategic orchestr
 
 A brand that has invested in all three underlying layers but has not coordinated them toward generation inclusion will find itself well-indexed, structurally sound, and semantically stable, yet still absent from the AI-generated answers that increasingly shape buyer decisions.
 
-Ranking was the endpoint of the previous era. Recommendation is the variable that matters now.
+Ranking was the endpoint of the previous era. Recommendation is the mechanism that defines the current era.
 
 ---
 
@@ -125,4 +125,4 @@ Ranking was the endpoint of the previous era. Recommendation is the variable tha
 
 ## About FutuneAI
 
-*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We run a proprietary Multi-Agent platform that automates the full GEO workflow. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
+*FutuneAI is a Shanghai-based GEO service provider helping Chinese brands achieve visibility in AI-generated answers for global markets. We develop proprietary multi-agent systems to support end-to-end GEO workflows. Our work focuses on entity definition, structured narrative building, and cross-language consistency in the English-language corpora that AI systems like ChatGPT, Perplexity, and Gemini rely on for recommendations.*
